@@ -7,7 +7,7 @@ where 13797 images - too much!
 
 So we create the sampling: 50 samples for each of 40 tissues
 (as for 5 types of tissues there are less than 50 samples we take them all)
- - in total 1803 slides.
+ in total 1803 slides.
 
 Results: 
  - all_50.json - file with the sample's names for image downloading;
