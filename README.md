@@ -6,7 +6,7 @@ where 13797 images - too much!
 - Visualization with Data Dashboard for tissues `GTEx_both_tis.pbix` (based on `gtex_both_tis.csv`).
 
 So we create the sampling: 50 samples for each of 40 tissues
-(as for 5 types of tissues there are less than 50 samples we take them all)
+(as for 5 types of tissues there are less than 50 samples we take them all), 
  in total 1803 slides.
 
 Results: 
