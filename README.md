@@ -22,5 +22,5 @@ for further usage.
 	for further usage in DataLoaders.
 
 Results: 
- - train -> 40 folders (each for every tissue) with 40*50*80 = 160 000 tiles
- - test -> 40 folders (each for every tissue) with 40*50*20 = 40 000 tiles
+ - train -> 40 folders (each for every tissue) with 40x50x80 = 160 000 tiles
+ - test -> 40 folders (each for every tissue) with 40x50x20 = 40 000 tiles
