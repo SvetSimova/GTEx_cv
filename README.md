@@ -1,4 +1,4 @@
-### Part 1. Collecting the data and preprocessing.
+### Part 1. Collecting the data and preprocessing
 
 To merge all samples which are in both images and genes data (`prep_to_download.ipynb`) -
 img_sample_list.json + gen_sample_list.json = both_img_gen_list.json 
@@ -14,7 +14,7 @@ Results:
  - genexpr_all_50.csv - file with their genes data (already preprocessed). 
 for further usage.
 
-### Part 2. Image Preparation.
+### Part 2. Image Preparation
 
 Download all slides from gtexportal (`slides_download.py`).
 Cutting into tiles & filtering them (`cutting_tiles.py` + ``thr_size_dict_448.json`)  
