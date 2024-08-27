@@ -17,7 +17,7 @@ for further usage.
 ### Part 2. Image Preparation
 
 - Download all slides from gtexportal (`slides_download.py`).
-- Cutting into tiles & filtering them (`cutting_tiles.py` + ``thr_size_dict_448.json`)  
+- Cutting into tiles & filtering them (`cutting_tiles.py` + `thr_size_dict_448.json`)  
 - Creation of train, test folders (with equal number of tiles for every sample) 
 	for further usage in DataLoaders.
 
